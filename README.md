@@ -1,6 +1,10 @@
 # :eye: SpiedOnU :eye:
 
-![eye.png](https://imgur.com/d98924e6-75fd-43cd-8039-431d2e399f15)
+![eye.png](https://imgur.com/HNYpkF5)
+
+<img src="markdownmonstericon.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
 
 ### System Requirements
 ```diff
