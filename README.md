@@ -2,9 +2,9 @@
 
 ![eye.png](https://i.imgur.com/HNYpkF5.png)
 
-<img src="https://imgur.com/HNYpkF5"
+<img src="https://i.imgur.com/HNYpkF5.png"
      alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;" />
+     align = "center"
 
 ### System Requirements
 ```diff
