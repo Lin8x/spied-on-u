@@ -11,7 +11,7 @@
 
 ### System Requirements
 
-List of requirements needed to run/edit the program
+This is a list of requirements needed to run/edit the program <br>
 (This can easily be prevented for windows systems with formatting the python file into a .exe file)
 
 ```diff
