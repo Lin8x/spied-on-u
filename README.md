@@ -4,7 +4,7 @@
 
 <img src="https://i.imgur.com/HNYpkF5.png"
      alt="Markdown Monster icon"
-     align = "center"
+     align = "center">
 
 ### System Requirements
 ```diff
