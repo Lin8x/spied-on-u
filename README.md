@@ -12,18 +12,14 @@
 ```diff
 
 + Python3
++ Any Operating System:
+- Windows System
+- Mac OS X
+- Linux (Ubuntu/Debian Based)
++ Items in the requirements.txt file
 
-+ Any System:
-  - Windows System
-  - Mac OS X
-  - Linux (Ubuntu/Debian Based)
+###########################################
 
-```
-```
--------------------------------------------
-```
-
-```diff
 As well as any requirements found in requirements.txt:
 
 + device-detector==0.5
