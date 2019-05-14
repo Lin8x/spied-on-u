@@ -1,6 +1,6 @@
 # :eye: SpiedOnU :eye:
 
-![eye.png](https://imgur.com/HNYpkF5)
+![eye.png](https://i.imgur.com/HNYpkF5.png)
 
 <img src="https://imgur.com/HNYpkF5"
      alt="Markdown Monster icon"
