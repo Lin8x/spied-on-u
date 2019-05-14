@@ -1,8 +1,8 @@
-# :eye: SpiedOnU :eye:
+# :eye: &nbsp; SpiedOnU &nbsp; :eye:
 
-:warning: **DISCLAIMER:** ***I AM NOT RESPONSIBLE FOR WHAT IS DONE WITH THIS SPYWARE.*** :warning:
+:warning: &nbsp; **DISCLAIMER:** ***I AM NOT RESPONSIBLE FOR WHAT IS DONE WITH THIS SPYWARE.*** &nbsp; :warning:
 
-A piece of spyware made to log hardware data of victims
+*A piece of spyware made to log hardware data of victims.*
 
 ![eye.png](https://i.imgur.com/HNYpkF5.png)
 
