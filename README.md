@@ -1,8 +1,6 @@
 # :eye: SpiedOnU :eye:
 
-<p align="center">
-<img src="https://ibb.co/GkQTvJL">
-</p>
+![eye.png](https://ibb.co/GkQTvJL)
 
 ### System Requirements
 ```diff
