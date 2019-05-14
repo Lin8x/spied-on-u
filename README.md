@@ -6,7 +6,7 @@
 
 ------------------------------------------------------------------------
 
-### :octocat: nbsp; Introduction nbsp; :octocat:
+### Introduction
 
 *This is a piece of spyware made to log hardware data of victims.*
 
