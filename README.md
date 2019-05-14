@@ -1,10 +1,10 @@
 # :eye: SpiedOnU :eye:
 
-![eye.png](https://i.imgur.com/HNYpkF5.png)
+:warning: **DISCLAIMER:** ***I AM NOT RESPONSIBLE FOR WHAT IS DONE WITH THIS SPYWARE. YOU ARE LIABLE TO YOUR OWN ACTIONS!*** :warning:
 
-<img src="https://i.imgur.com/HNYpkF5.png"
-     alt="Markdown Monster icon"
-     align = "center">
+A piece of spyware made to log hardware data of victims
+
+![eye.png](https://i.imgur.com/HNYpkF5.png)
 
 ### System Requirements
 ```diff
