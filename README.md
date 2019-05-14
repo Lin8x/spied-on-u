@@ -30,7 +30,7 @@ Though you can run this program on ANY system, most information that can be gath
 ### :inbox_tray: &nbsp; How to Install &nbsp; :inbox_tray:
 
 **1a**. You can install by downloading the zip file
-OR
+<br> OR <br>
 **1b**. Download with the command:
 ```diff
 git clone https://github.com/Lin8x/spied-on-u
