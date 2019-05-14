@@ -6,11 +6,17 @@
 
 ![eye.png](https://i.imgur.com/HNYpkF5.png)
 
+### How to Install 
+
 ### System Requirements
 ```diff
 
 + Python3
-+ 
+
++ Any System:
+  - Windows System
+  - Mac OS X
+  - Linux (Ubuntu/Debian Based)
 
 ```
 ```
