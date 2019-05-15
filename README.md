@@ -6,7 +6,7 @@
 
 ------------------------------------------------------------------------
 
-### :clipboard: &nbsp; Introduction &nbsp; :clipboard:
+## :clipboard: &nbsp; Introduction &nbsp; :clipboard:
 
 *This is a piece of spyware made to log hardware data (and sometimes network data) of victims.*
 
@@ -30,7 +30,7 @@ Though you can run this program on ANY system, most information that can be gath
 
 ------------------------------------------------------------------------
 
-### :inbox_tray: &nbsp; How to Install &nbsp; :inbox_tray:
+## :inbox_tray: &nbsp; How to Install &nbsp; :inbox_tray:
 
 **1a**. You can install by downloading the zip file
 <br> OR <br>
@@ -45,7 +45,7 @@ pip install -r requirements.txt
 ```
 ------------------------------------------------------------------------
 
-### :unlock: &nbsp; System Requirements &nbsp; :unlock:
+## :unlock: &nbsp; System Requirements &nbsp; :unlock:
 
 This is a list of requirements needed to run/edit the program <br>
 (This can easily be prevented for windows systems with formatting the python file into a .exe file)
