@@ -8,7 +8,7 @@
 
 ### :clipboard: &nbsp; Introduction &nbsp; :clipboard:
 
-*This is a piece of spyware made to log hardware data of victims.*
+*This is a piece of spyware made to log hardware data (and sometimes network data) of victims.*
 
 ![eye.png](https://i.imgur.com/HNYpkF5.png)
 
