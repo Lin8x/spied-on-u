@@ -45,7 +45,7 @@ pip install -r requirements.txt
 ```
 ------------------------------------------------------------------------
 
-### System Requirements
+### :unlock: &nbsp; System Requirements &nbsp; :unlock:
 
 This is a list of requirements needed to run/edit the program <br>
 (This can easily be prevented for windows systems with formatting the python file into a .exe file)
