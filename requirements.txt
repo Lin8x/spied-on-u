@@ -1,7 +1,7 @@
 device-detector==0.5
 requests==2.18.4
 scapy-python3==0.26
-urllib3==1.22
+urllib3==1.24.2
 pylint==2.0.1    
 pynput==1.4.2
 colorama==0.4.1
