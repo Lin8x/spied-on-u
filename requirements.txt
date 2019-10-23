@@ -1,5 +1,5 @@
 device-detector==0.5
-requests==2.18.4
+requests==2.20.0
 scapy-python3==0.26
 urllib3==1.24.2
 pylint==2.0.1    
