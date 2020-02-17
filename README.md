@@ -1,3 +1,8 @@
+
+## DUE TO LEGAL REASONS I HAVE CLOSE-SOURCED MY CODE AND ANY PUBLIC CODE USED OF MINE IS NOW IN THE RESPONSIBILITY OF THAT REPOSITORY'S OWNER
+
+------------------------------------------------------------------------
+
 # :eye: &nbsp; SpiedOnU &nbsp; :eye:
 
 ------------------------------------------------------------------------
@@ -60,3 +65,7 @@ This is a list of requirements needed to run/edit the program <br>
 + Items in the requirements.txt file
 
 ```
+
+------------------------------------------------------------------------
+
+## DUE TO LEGAL REASONS I HAVE CLOSE-SOURCED MY CODE AND ANY PUBLIC CODE USED OF MINE IS NOW IN THE RESPONSIBILITY OF THAT REPOSITORY'S OWNER
